@@ -36,7 +36,7 @@ It was also verified that deletion process did not removed documents of restaura
 
 ### Step 4: Converting Strings to other Datatypes
 
-Longitudes, Latitudes and Rating values of documents were converted to Double and Integer respectively using *data conversion functions*. The datatype conversion were later verified.
+*Longitudes, Latitudes and Rating values* of documents were converted to **Double and Integer** respectively using *data conversion functions*. The datatype conversion were later verified.
 
 ![Screenshot 2023-10-11 220238](https://github.com/pkrachakonda/NoSQL_Challenge/assets/20739237/133187f1-b089-4ec6-aee8-b132dc2cf61c)
 ![Screenshot 2023-10-11 220251](https://github.com/pkrachakonda/NoSQL_Challenge/assets/20739237/69561892-6870-40a4-9c1a-b278289521d4)
