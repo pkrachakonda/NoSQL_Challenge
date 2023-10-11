@@ -1,4 +1,4 @@
- Evaluation of Restaurant Ratings Using **MongoDB** and **Pymongo**
+# Evaluation of Restaurant Ratings Using **MongoDB** and **Pymongo**
   As part of this project, database related to restaurants across the United Kingdom was evaluated.
   
 ## Step 1: Importing Dataset and Setup of Collection
